@@ -1,1 +1,9 @@
 creates the new trainging txt file
+//Step 1
+    git init --its means to initialize the git.
+
+// Step 2 
+    git clone https://github.com/vijayakash661/CTS_Training.git -- To add the link in the github repo file.
+
+// step 3
+    git cd CTS_Training -- its a Change Directory folder file in your system.
