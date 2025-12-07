@@ -1,8 +1,4 @@
 hello
 hai everyone
 this is second folder
-<<<<<<< HEAD
 intha line deleted or Not  
-=======
-I will added in this new line aagain....
->>>>>>> 911406ad3db4a71e3351b3da7741df83f14c9598
